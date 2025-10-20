@@ -1,0 +1,5 @@
+
+Pour l'ia : 
+ - Après avoir déposé n sphères, on compare à toutes les configurations à n sphères contenues dans la configuration que l'on
+   souhaite obtenir et on retient celle qui est la plus proche de la configuration reelle
+ - On joue alors de manière à reproduire l'une des configurations issue de celle retenue + la sphère à jouer
